@@ -1,4 +1,5 @@
-# Site-Barbearia
- meu projeto de um site de uma Barbearia
+# Web site baber shop
+ 
+ My project of the baber shop with Java Script, HTML and CSS
  
  ## segue o link para acesso https://lucascerqueira91.github.io/Site-Barbearia/
