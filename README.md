@@ -1,4 +1,4 @@
-# Web site baber shop
+#  BaberShop Website
  
  My project of the baber shop with Java Script, HTML and CSS
  
